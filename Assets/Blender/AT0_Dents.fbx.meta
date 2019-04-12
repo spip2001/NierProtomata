@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 9aaf06b61a3cb27459c3143373c1d447
+timeCreated: 1515511888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: At0mium
+    100004: At0mium.001
+    100006: At0mium.002
+    100008: At0mium.003
+    100010: At0mium.Cheveux
+    100012: Bureau_At0
+    100014: Camera
+    100016: Cube
+    100018: Cube.001
+    100020: Cylinder
+    100022: Enemy_Point
+    100024: Missile
+    100026: Plane
+    100028: Plane.001
+    100030: Sphere
+    100032: Sphere.001
+    100034: Sun
+    100036: Vaisseau
+    400000: //RootNode
+    400002: At0mium
+    400004: At0mium.001
+    400006: At0mium.002
+    400008: At0mium.003
+    400010: At0mium.Cheveux
+    400012: Bureau_At0
+    400014: Camera
+    400016: Cube
+    400018: Cube.001
+    400020: Cylinder
+    400022: Enemy_Point
+    400024: Missile
+    400026: Plane
+    400028: Plane.001
+    400030: Sphere
+    400032: Sphere.001
+    400034: Sun
+    400036: Vaisseau
+    2300000: At0mium
+    2300002: At0mium.001
+    2300004: At0mium.002
+    2300006: At0mium.003
+    2300008: At0mium.Cheveux
+    2300010: Bureau_At0
+    2300012: Cube
+    2300014: Cube.001
+    2300016: Cylinder
+    2300018: Enemy_Point
+    2300020: Missile
+    2300022: Plane
+    2300024: Plane.001
+    2300026: Sphere
+    2300028: Sphere.001
+    2300030: Vaisseau
+    2300032: //RootNode
+    3300000: At0mium
+    3300002: At0mium.001
+    3300004: At0mium.002
+    3300006: At0mium.003
+    3300008: At0mium.Cheveux
+    3300010: Bureau_At0
+    3300012: Cube
+    3300014: Cube.001
+    3300016: Cylinder
+    3300018: Enemy_Point
+    3300020: Missile
+    3300022: Plane
+    3300024: Plane.001
+    3300026: Sphere
+    3300028: Sphere.001
+    3300030: Vaisseau
+    3300032: //RootNode
+    4300000: At0mium.002
+    4300002: Bureau_At0
+    4300004: Sphere.001
+    4300006: At0mium.003
+    4300008: At0mium.Cheveux
+    4300010: At0mium.001
+    4300012: Sphere
+    4300014: At0mium
+    4300016: Missile
+    4300018: Cylinder
+    4300020: Plane.001
+    4300022: Cube.001
+    4300024: Plane
+    4300026: Cube
+    4300028: Enemy_Point
+    4300030: Vaisseau
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

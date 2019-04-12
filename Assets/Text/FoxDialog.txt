@@ -1,0 +1,3 @@
+<color=aqua>Graoh !</color>\r\n
+Unité inconnue. Identification requise.\r\n
+<color=aqua>Je suis le logiciel F0-X de la compagnie Cell-DEL</color>\r\n

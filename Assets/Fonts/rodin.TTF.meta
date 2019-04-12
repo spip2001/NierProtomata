@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7f89163c7af6f1043af9d796da5b5ab8
+timeCreated: 1515058287
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 90
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SCE-PS3 Rodin LATIN
+  fontNames:
+  - SCE-PS3 Rodin LATIN
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
